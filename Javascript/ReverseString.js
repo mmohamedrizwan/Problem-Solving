@@ -10,7 +10,6 @@
 
 let str = "hello";
 
-
 let chars = str.split("");
 
 let left = 0;
